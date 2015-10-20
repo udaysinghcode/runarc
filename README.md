@@ -7,12 +7,12 @@ This is a quick way to run and install Arc 3.1
 To try and pull the code with SSH run the following.
 
 ```Shell
-git pull git@github.com:udaysinghcode/runarc.git
+git clone git@github.com:udaysinghcode/runarc.git && cd runarc
 ```
 If that doesn't work try and do this:
 
 ```Shell
-git pull https://github.com/udaysinghcode/runarc.git
+git clone https://github.com/udaysinghcode/runarc.git && cd runarc
 ```
 
 ## 2. Install Homebrew
