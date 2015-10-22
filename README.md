@@ -42,13 +42,10 @@ rlwrap mzscheme372/bin/mzscheme -m -f as.scm
 
 You should be running!
 
-## Additional
+# Additional
 
-Information from
-[http://arclanguage.org/install](http://arclanguage.org/install)
+Information from [the Arc Language site](http://arclanguage.org/install).
 
-
-----
 ### Arc Language Installation Instructions
 1. Install version 372 of MzScheme. (Don't use the latest version. Versions
    after 372 made lists immutable.)
